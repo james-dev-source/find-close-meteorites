@@ -8,4 +8,7 @@ Requires Python 3 and requests package
 First, install pipenv, then:
 
 pipenv install
-pipenv run "python find_meteors.py"
+
+#to run, use this line:
+
+pipenv run python .meteors\find_meteors.py
